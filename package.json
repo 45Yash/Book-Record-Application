@@ -1,0 +1,26 @@
+{
+  "name": "book-record-application",
+  "version": "1.0.0",
+  "description": "Library System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/45Yash/Book-Record-Application.git"
+  },
+  "author": "yash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/45Yash/Book-Record-Application/issues"
+  },
+  "homepage": "https://github.com/45Yash/Book-Record-Application#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
